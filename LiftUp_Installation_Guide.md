@@ -5,13 +5,15 @@ To run this application, the following are required:
 - The Pillow library for image handling
 
 # Required Python Libraries:
+All but PIL should come with a default Python 3 installation.
+
 - tkinter
 - json
 - os
 - datetime
 - PIL (Pillow - must be installed separately)
-All but PIL should come with a default Python 3 installation.
-To install pillow, run: pip install pillow
+
+To install pillow, run this in Window's Terminal Shell: pip install pillow
 
 # Files required:
 The following files must all be present in the same folder before running the application. These files can be downloaded from the Required-Files branch of this repository. 

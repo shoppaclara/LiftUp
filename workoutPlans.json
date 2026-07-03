@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Shoulders/Triceps",
+    "exercises": [
+      {
+        "name": "Dumbell Shoulder Press",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 50
+          },
+          {
+            "reps": 12,
+            "weight": 60
+          },
+          {
+            "reps": 12,
+            "weight": 60
+          }
+        ]
+      },
+      {
+        "name": "Lateral Raise",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 30
+          },
+          {
+            "reps": 15,
+            "weight": 30
+          },
+          {
+            "reps": 15,
+            "weight": 30
+          },
+          {
+            "reps": 10,
+            "weight": 35
+          }
+        ]
+      },
+      {
+        "name": "Tricep Push-down",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 30
+          },
+          {
+            "reps": 10,
+            "weight": 35
+          },
+          {
+            "reps": 10,
+            "weight": 35
+          },
+          {
+            "reps": 10,
+            "weight": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Glutes/Hamstrings",
+    "exercises": [
+      {
+        "name": "Romanian Deadlift",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 150
+          },
+          {
+            "reps": 12,
+            "weight": 160
+          },
+          {
+            "reps": 12,
+            "weight": 160
+          }
+        ]
+      },
+      {
+        "name": "Hamstring Curl",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 130
+          },
+          {
+            "reps": 10,
+            "weight": 135
+          },
+          {
+            "reps": 10,
+            "weight": 135
+          },
+          {
+            "reps": 10,
+            "weight": 135
+          }
+        ]
+      },
+      {
+        "name": "Hip Thrust",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 180
+          },
+          {
+            "reps": 12,
+            "weight": 225
+          },
+          {
+            "reps": 12,
+            "weight": 225
+          },
+          {
+            "reps": 12,
+            "weight": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Calisthenics",
+    "exercises": [
+      {
+        "name": "Pullups",
+        "sets": [
+          {
+            "reps": 10,
+            "weight": 0
+          },
+          {
+            "reps": 10,
+            "weight": 0
+          }
+        ]
+      },
+      {
+        "name": "Pushup",
+        "sets": [
+          {
+            "reps": 50,
+            "weight": 0
+          },
+          {
+            "reps": 50,
+            "weight": 0
+          }
+        ]
+      },
+      {
+        "name": "Squat",
+        "sets": [
+          {
+            "reps": 25,
+            "weight": 0
+          },
+          {
+            "reps": 25,
+            "weight": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Back/Biceps",
+    "exercises": [
+      {
+        "name": "Lat Pulldown",
+        "sets": [
+          {
+            "reps": 12,
+            "weight": 88
+          },
+          {
+            "reps": 10,
+            "weight": 100
+          },
+          {
+            "reps": 10,
+            "weight": 100
+          }
+        ]
+      },
+      {
+        "name": "T-bar Row",
+        "sets": [
+          {
+            "reps": 10,
+            "weight": 70
+          },
+          {
+            "reps": 10,
+            "weight": 80
+          },
+          {
+            "reps": 10,
+            "weight": 80
+          }
+        ]
+      },
+      {
+        "name": "Rear-delt flies",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": 35
+          },
+          {
+            "reps": 15,
+            "weight": 35
+          },
+          {
+            "reps": 15,
+            "weight": 35
+          }
+        ]
+      }
+    ]
+  }
+]

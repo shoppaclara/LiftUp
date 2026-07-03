@@ -13,7 +13,7 @@ This program relies primarly on libraries included within the default Python 3.x
 - datetime
 - PIL (Pillow)
 
-# A further installation guide of this application is provided in design.pdf
+# A further installation guide of this application is provided in LiftUp_Installation_Guide.pdf
 
 
 

@@ -1,5 +1,5 @@
 # LiftUp
-A desktop workout application to create workout plans and execute them in live time using Tkinter in Python.
+A desktop workout application to create workout plans and execute them in live time using Tkinter in Python. This was created as a final project for the Flight Systems course taken at the University of Maryland
 
 Utlizes Tkinter and .JSON files as the development framework. Tkinter is the default GUI Toolkit for Python. .JSON files are logged and stored externally in the dedicated folder to store workout lists, logs, and to allow for stastic tracking capabilities. 
 

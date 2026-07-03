@@ -14,7 +14,7 @@ All but PIL should come with a default Python 3 installation.
 To install pillow, run: pip install pillow
 
 # Files required:
-The following files must all be present in the same folder before running the application:
+The following files must all be present in the same folder before running the application. These files can be downloaded from the Required-Files branch of this repository. 
 - liftup_main.py
 The main Python file for the application. It contains all application logic, class
 definitions, and the Tkinter main loop that launches the graphical user interface.
